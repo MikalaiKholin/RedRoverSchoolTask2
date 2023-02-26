@@ -10,5 +10,6 @@ public class Main {
         System.out.printf("the remainder of the division a and b %d%n", a % b);
         System.out.printf("is a an even number? %b%n", a % 2 == 0);
         System.out.printf("is b an even number? %b%n", b % 2 == 0);
+        System.out.print("😀");
     }
 }
